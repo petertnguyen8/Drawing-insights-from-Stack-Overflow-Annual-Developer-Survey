@@ -15,8 +15,8 @@ With insights drawn from the 2024 Stack Overflow developer survey, looking at sp
 The libraries I used are: pandas, numpy, seaborn, matplotlib, scikit-learn's metrics, scikit-learn's model selection, and scikit-learn's ensemble
 
 ## Acknowledgements
-Data Source: https://survey.stackoverflow.co/
-Data licensed under Open Database License (ODbL).
+Data Source: https://survey.stackoverflow.co/ \n
+Data licensed under Open Database License (ODbL). \n
 User contributions licensed under CC BY-SA.
 
 Thank you to Udacity for guiding me through this project. 
